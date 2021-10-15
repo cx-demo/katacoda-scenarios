@@ -4,4 +4,3 @@ The queries supported by KICS can be found in [kics/queries](https://docs.kics.i
 
 Continue to [kics.io/integrations](https://docs.kics.io/latest/integrations) to see how to integrate KICS into your pipelines
 
-

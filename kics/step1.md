@@ -7,6 +7,6 @@ Pull the KICS docker image:
 
 ## Downloading vulnerable IaC examples
 
-Clone example repository [terragoat](https://github.com/bridgecrewio/terragoat)  that contains vulnerable IaC sources:
+Clone example repository [terragoat](https://github.com/bridgecrewio/terragoat) that contains vulnerable IaC sources:
 
-`https://github.com/bridgecrewio/terragoat.git terragoat`{{execute}}
+`git clone https://github.com/bridgecrewio/terragoat.git terragoat`{{execute}}
