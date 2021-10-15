@@ -7,6 +7,6 @@ Pull the KICS docker image:
 
 Clone our example repository that contains vulnerable IaC sources:
 
-`git clone https://github.com/Checkmarx/kics.git kics `{{execute}}
+`clone https://github.com/Checkmarx/kics.git kics `{{execute}}
 
-Vulnerable examples are included in each KICS queries, collected in folder, `kics/assets/queries`{{open}}.
+Vulnerable examples are available with each KICS queries, collected in folder, `ls kics/assets/queries`{{execute}}
