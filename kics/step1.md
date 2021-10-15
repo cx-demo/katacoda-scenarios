@@ -7,8 +7,6 @@ Pull the KICS docker image:
 
 ## Downloading vulnerable IaC examples
 
-Clone our example repository that contains vulnerable IaC sources:
+Clone example repository [terragoat](https://github.com/bridgecrewio/terragoat)  that contains vulnerable IaC sources:
 
-`git clone https://github.com/Checkmarx/kics.git kics`{{execute}}
-
-Vulnerable examples are available with each KICS queries, collected in folder, `ls kics/assets/queries`{{execute}}
+`https://github.com/bridgecrewio/terragoat.git terragoat`{{execute}}
