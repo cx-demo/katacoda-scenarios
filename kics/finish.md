@@ -1,0 +1,1 @@
+Congratulations. You have completed the scenario to use KICS to scan your Infrastructure-as-code. Continue to [kics.io/integrations](https://docs.kics.io/latest/integrations) to see how to integrate KICS into your pipelines
