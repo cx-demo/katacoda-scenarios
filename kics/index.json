@@ -7,11 +7,13 @@
     "steps": [
       {
         "title": "Step 1 - Setting up the environment",
-        "text": "step1.md"
+        "text": "step1.md",
+        "verify": "step1_verify.sh"
       },
       {
         "title": "Step 2 - Executing KICS scan",
-        "text": "step2.md"
+        "text": "step2.md",
+        "verify": "step2_verify.sh"
       }
     ],
     "intro": {
@@ -22,7 +24,8 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "hideHiddenFiles": true
   },
   "backend": {
     "imageid": "ubuntu1804"
