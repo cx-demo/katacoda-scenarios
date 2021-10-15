@@ -8,4 +8,4 @@ Execute dockerized KICS scan against the vulnerable example [terragoat](https://
 
 ## Review the results
 
-All the results are collected in the JSON file, for example, `/root/terragoat/results.json`{{open}}
+All the results are collected in the JSON file, for example, `terragoat/results.json`{{open}}
