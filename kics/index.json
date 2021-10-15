@@ -1,8 +1,8 @@
 {
   "title": "Scanning IaC with KICS",
   "description": "Scanning your Infrastructure as Code using KICS (https://kics.io) to find vulnerabilities",
-  "difficulty": "Beginner",
-  "time": "10",
+  "difficulty": "",
+  "time": "",
   "details": {
     "steps": [
       {

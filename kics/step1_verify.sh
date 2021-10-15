@@ -1,1 +1,1 @@
-[ ! -z "$(docker images -q checkmarx/kics:latest)" -a -f /root/terragoat/README.md ]
+[ ! -z "$(docker images -q checkmarx/kics:latest)" -a -f /root/terragoat/README.md ] && echo "Done"
