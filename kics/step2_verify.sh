@@ -1,1 +1,1 @@
-test -f /root/terragoat/results.json
+[ -f /root/terragoat/results.json ] && echo "Done"
